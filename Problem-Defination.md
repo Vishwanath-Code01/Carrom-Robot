@@ -45,8 +45,7 @@ Step 1:Prepare a list of design constraints.
 |01|Cost of machine should be within 5000|
 |02|Size of machine 2ft * 2ft|
 |03|Machine should be less than 5 kg|
-|04|Machine should work 24/7 days continu0usly with high efficiency|
-|05|Time gap between two shots is 30 seconds|
+|04|Time gap between two shots is 30 seconds|
 ## Problem definition version 1.2:-
 Design a semi-automatic machine which is portable ,user-friendly and also has aesthetic look. It should be accurately able to perform the work with more efficiency.Machine should be light in weight that is less than 5kgs,size of machine should not exceed 2ft * 2ft,should take less than 30 seconds between 2 successive strikes, budget to build should not exceed RS 5000.
 ## 1.5 Establish Functions
