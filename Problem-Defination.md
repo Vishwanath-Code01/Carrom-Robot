@@ -23,9 +23,7 @@
 |-------|------------------------------|-----------------|
 |1.| maximum weight of machine| It should be easy to carry, portable, and transportable|
 |2.|Cost| Machine should be built with minimum budget|
-|3.|number of people allowed to enter through door for each entry| single people entry would be efficient|
-|4.|Number of attempts during each entry |machine should work fine for atleast 3 to 5 attempts|
-|5.|Materials to be used| Materials used to build, must be user-Friendly ,non-toxic and light in weight|
+|3.|Materials to be used| Materials used to build, must be user-Friendly ,non-toxic and light in weight|
 ## 1.3 Identifying Client's Objectives
 Step 1:Prepare a list of design objectives
 
@@ -34,11 +32,10 @@ Step 1:Prepare a list of design objectives
 |-------|----------------|
 |01|Machine should be Semi-automatic|
 |02|Machine should be portable|
-|03|Machine should be waterproof|
-|04|Machine should be user-friendly|
-|05|Machine should have aesthetic look|
+|03|Machine should be user-friendly|
+|04|Machine should have aesthetic look|
 ### Problem definition version 1.1:-
-Design a semi-automatic machine which is portable, waterproof ,user-friendly and also has aesthetic look. It should be accurately able to perform the work with more efficiency.
+Design a semi-automatic carrom bot which is portable, waterproof ,user-friendly and also has aesthetic look. It should be accurately able to perform the work with more efficiency.
 ## 1.4 Identify constraints
 Step 1:Prepare a list of design constraints.
 
