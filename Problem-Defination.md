@@ -42,26 +42,21 @@ Step 1:Prepare a list of design constraints.
                Table 4:Identified Constraints
 | sl.no | **Constraints **|
 |-------|-----------------|
-|01|Machine should be light in weight(less than 3kgs)|
-|02|Size of machine 50cm*50cm|
-|03|Cost of machine should be within 5000|
-|04|the machine should allow the entry of only one member during each entry|
-|05|materials like wooden, wood or glass can be used to make door|
-|06|Machine should be durable for 8 to 10 uses.|
-|07|machine should have battery backup for atleast 1hr|
-|08|machine should be either black, white or red in color|
-|09|Machine should work 24/7 days continu0usly with high efficiency|
-|10|Machine has to be made ready completely within 2 months|
+|01|Cost of machine should be within 5000|
+|02|Size of machine 2ft * 2ft|
+|03|Machine should be less than 5 kg|
+|04|Machine should work 24/7 days continu0usly with high efficiency|
+|05|Time gap between two shots is 30 seconds|
 ## Problem definition version 1.2:-
-Design a semi-automatic machine which is portable, waterproof ,user-friendly and also has aesthetic look. It should be accurately able to perform the work with more efficiency. machine should be light in weight that is less than 3kgs,size of machine should not exceed 50cm*50cm,should allow entry of only one member during each entry, budget to build should not exceed 5000 Rs, machine should work 24/7 days continuously with high efficiency.
+Design a semi-automatic machine which is portable ,user-friendly and also has aesthetic look. It should be accurately able to perform the work with more efficiency.Machine should be light in weight that is less than 5kgs,size of machine should not exceed 2ft * 2ft,should take less than 30 seconds between 2 successive strikes, budget to build should not exceed RS 5000.
 ## 1.5 Establish Functions
 Step 1:Prepare a list of design functions
     
                      Table 5: identified Functions
 | sl.no | *Functions* |
 |-------|---------------|
-|01|Door lock should be movable|
-|02|Provison for changing password is allowed|
-|03|indicade error message on LCD|
+|01|The bot should detect the coin|
+|02|The bot should adjust the handle|
+|03|The bot should hit the coin|
 ### ## Problem definition version 1.3:-
-Design a semi-automatic machine which is portable, waterproof ,user-friendly and also has aesthetic look. It should be accurately able to perform the work with more efficiency. machine should be light in weight that is less than 3kgs,size of machine should not exceed 50cm*50cm,should allow entry of only one member during each entry, budget to build should not exceed 5000 Rs, machine should work 24/7 days continuously with high efficiency. The users should have provision to change password. Machine should display commands on LCD indicating the opening or closing of door.
+Design a semi-automatic machine which is portable ,user-friendly and also has aesthetic look. It should be accurately able to perform the work with more efficiency. Machine should be light in weight that is less than 5kgs,size of machine should not exceed 2ft * 2ft, budget to build should not exceed RS 5000. The bot should detect the coin ,adjust the handle and hit the coin with the striker.
