@@ -1,0 +1,6 @@
+| NAME | USN  | ROL NO. |Contact No.|Email|
+|------|------|---------|-----------|-----|
+| Vishwanath Hubballi   | 01FE22BCS236     |1412         |  8867756753   |01fe22bcs236@kletech.ac.in|
+| Rakshita Gadgai    |01FE22BEC026     |1458         |6363228394|01fe22bec026@kletech.ac.in|
+|  Prasanna Patil   |01FE22BEC003      | 1438        |  9353143654  |01fe22bec003@kletech.ac.in|
+|Sagar   Shegunashi  |01FE22BCS259      |1434       |8904646173|01fe22bcs259@kletech.ac.in|
