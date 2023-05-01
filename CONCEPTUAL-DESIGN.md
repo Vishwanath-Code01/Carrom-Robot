@@ -1,4 +1,4 @@
-2.1 ESTABLISHING FUCTIONS
+##2.1 ESTABLISHING FUCTIONS
 |SL.no|FUNCTIONS|
 |1|Detect The Coin|
 |2|Adjust The Movement Of Arm|
