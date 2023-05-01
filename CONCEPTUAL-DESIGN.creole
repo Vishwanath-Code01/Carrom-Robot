@@ -1,4 +1,35 @@
-# ESTABLISHING MEANS-MORPHOLOGICAL CHART
+2.1 ESTABLISHING FUCTIONS
+|SL.no|FUNCTIONS|
+|1|Detect The Coin|
+|2|Adjust The Movement Of Arm|
+|3|Detect the coin Position|
+|4|Adjust The Speed Of Striker Based On Position|
+|5|Adjust The Angle|
+|6|MAchine On/Off|
+
+
+{{![image](https://user-images.githubusercontent.com/130956680/235412939-a11b4592-c07c-4e60-b737-bb09de77da6e.png)}}
+
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2 ESTABLISHING MEANS-MORPHOLOGICAL CHART
 
  | **SL no**|**Sub-Function**|**Means 1**|**Means 2**|**Means 3**|**Means 4**|
  |1|Sence The Coin|Infrared Sensor|Proximity Sensor|Photo Electric|Ultra Sonic Sensor|
