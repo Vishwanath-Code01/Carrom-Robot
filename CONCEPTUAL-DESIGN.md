@@ -8,8 +8,8 @@
 |6|MAchine On/Off|
 
 
+{{![Screenshot 2023-05-01 112453](https://user-images.githubusercontent.com/130956680/235415388-ad7c20f8-6aa8-48b3-b4d9-7a462d8693d1.png)}}
 
-![Screenshot 2023-05-01 112453](https://user-images.githubusercontent.com/130956680/235413926-7d2dcdec-8037-46ed-aa75-57ae129bdd5a.png)
 
 
 
