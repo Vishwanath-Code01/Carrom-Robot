@@ -1,7 +1,8 @@
 ## function  establishment
 
 
-![Screenshot (45)](https://user-images.githubusercontent.com/130683739/235583300-b602e62d-fc17-4add-8fad-770ed673718d.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/130683739/235584773-823cecbf-4603-4a38-bf12-8abdece81ab8.png)
+
 
 ## function tree
 
