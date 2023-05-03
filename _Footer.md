@@ -1,8 +1,6 @@
 
-* <html>
-<body>
 
-sl no | component | mechanism | link
+SL no | Component | Mechanism | Link
 -- | -- | -- | --
 1 | Buzzer | To produce alert sounds | https://youtu.be/K8AnlUT0ng0
 2 | DC Motor | to control the movement of the arm | https://youtu.be/G2WJvblxAGQ
