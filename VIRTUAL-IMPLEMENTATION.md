@@ -2,10 +2,9 @@
 
 |SL.NO|COMPONENTS|MATERIAL USED|QUANTITY|SPECIFICATIONS        |
 |-----|----------|-------------|--------|--------|
-|01|Wheels|Fibre|04| |
 |02|Aurdino Mega|Microcontroller board|01| |
 |04|Relay Board|Normal Relay board|03|  |
-|05| | | |  |
+|05|Bolts | | |  |
 |06|DC Motor|Normal DC Motor|03|  |
 |07|Glue|Ethylene-Vinyl acetate|03|   |
 |08|Jumper Wires|Tin plated annealed Copper wires|  |  |
