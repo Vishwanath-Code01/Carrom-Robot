@@ -24,6 +24,28 @@
 ## FIRING UNIT
 ![WhatsApp Image 2023-06-01 at 11 10 39](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130656643/71674624-f1c2-4b71-a2fa-867594b60d9d)
 
+## ANGLE ADJUSTMENT UNIT
+![WhatsApp Image 2023-06-01 at 12 16 52](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130656643/220ad2bb-9085-4a4a-b9db-8e59c5646f49)
+
+
+
+
+# 3D MODEL
+## FIRING UNIT
+
+
+
+
+## BOT MOVING UNIT
+![Screenshot (49)](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130656643/39b7a9ff-0c84-40c6-a0a8-cbb228d36bb5)
+
+
+## ANGLE ADJUSTING UNIT
+![WhatsApp Image 2023-06-01 at 11 39 05](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130656643/d4711ae7-02ab-493a-aa11-52e48782d84d)
+
+
+
+
 
 
 
