@@ -7,7 +7,7 @@
 ![Screenshot 2023-05-31 231952](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130956680/9e06f274-dedb-4a3a-8167-753ad3b69fe6)
 
 
-## SUBSYSTEM 03 : MOVEMENT
+## SUBSYSTEM 03 : BOT MOVING UNIT
 ![Screenshot 2023-05-31 232513 new v](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130956680/0bac6e08-35e4-46c3-b252-91f7ed35c5c0)
 
 
@@ -16,7 +16,14 @@
 
 
 
-#FLOWCHART
+# FLOWCHART
+## BOT MOVING UNIT
+![Untitled Diagram](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130656643/206199c2-c4ca-4cb5-aff2-f0d14b44b212)
+
+
+## FIRING UNIT
+![WhatsApp Image 2023-06-01 at 11 10 39](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130656643/71674624-f1c2-4b71-a2fa-867594b60d9d)
+
 
 
 
