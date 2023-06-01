@@ -32,6 +32,8 @@
 
 # 3D MODEL
 ## FIRING UNIT
+![WhatsApp Image 2023-06-01 at 13 12 00](https://github.com/N-Division-2022-2023-Even/Repo-07/assets/130656643/93f96c87-f209-438d-953b-c0683dbe87e7)
+
 
 
 
